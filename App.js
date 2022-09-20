@@ -3,7 +3,7 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Proposal from "./pages/Proposal";
-import tempLogo from "./images/temp-logo.png";
+import tempLogo from "./assets/logo.png";
 import { ConnectButton } from "web3uikit";
 
 const App = () => {
